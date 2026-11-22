@@ -2,7 +2,7 @@
 
 A modular, multi-page e-commerce storefront built from scratch with **Vanilla JavaScript (ES6+)**, HTML5, and CSS3—no frontend frameworks. Designed to practice core web engineering fundamentals: OOP class inheritance, asynchronous API integration, client-side state persistence, and automated unit testing.
 
-**Live Demo:** `https://<your-username>.github.io/<repo-name>/` *(update after enabling GitHub Pages)*
+**Live Demo:** 
 
 ---
 
